@@ -1,6 +1,6 @@
 our $CONFIG = {
-	x => 550,
-	y => 600,
+	x => 4000,
+	y => 4000,
 	theta => 0,
 	length => 100,
 	initial_symbol => 'YXY',
@@ -11,11 +11,11 @@ our $CONFIG = {
 		},
 		{
 			from => 'X',
-			to => 'f[!fzy]fy%fy%fy!fyfyxy'
+			to => 'f[!fzy--fz]fy%fy%fy!fyfyxy'
 		},
 		{
 			from => 'Z',
-			to => '[+fyfy!fy]ffyfy'
+			to => '[-fyfy!fyffyz]yfy'
 		}
 	],
 	grammar_stabilizer => {
