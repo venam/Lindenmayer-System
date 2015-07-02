@@ -1,6 +1,6 @@
 our $CONFIG = {
-	x => 200,
-	y => 900,
+	x => 100,
+	y => 1500,
 	theta => 0,
 	length => 5,
 	initial_symbol => 'X',
