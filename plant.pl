@@ -74,7 +74,6 @@ sub char_r {
 	$x = $p_n_a->{x};
 	$y = $p_n_a->{y};
 	$theta = $p_n_a->{theta};
-
 }
 
 1;
