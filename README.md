@@ -55,6 +55,6 @@ our $CONFIG = {
 
 ##Example Outputs##
 
-![test shape 9 iter](https://raw.githubusercontent.com/venam/Lindenmayer-System/master/test_shape.jpg)
-![test shape 15 iter](https://raw.githubusercontent.com/venam/Lindenmayer-System/master/test_shape_15.jpg)
-![test shape 35 iter](https://raw.githubusercontent.com/venam/Lindenmayer-System/master/test_shape_35.jpg)
+![test shape 9 iter](https://raw.githubusercontent.com/venam/Lindenmayer-System/master/images/test_shape.jpg)
+![test shape 15 iter](https://raw.githubusercontent.com/venam/Lindenmayer-System/master/images/test_shape_15.jpg)
+![test shape 35 iter](https://raw.githubusercontent.com/venam/Lindenmayer-System/master/images/test_shape_35.jpg)
