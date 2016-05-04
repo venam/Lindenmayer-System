@@ -1,7 +1,7 @@
 #A Generic Lindermayer System Parser
 
 
-A simplied way to write Lindenmayer systems
+A simplified way to write Lindenmayer systems
 
 
 ##Usage##
